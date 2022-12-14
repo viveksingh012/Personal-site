@@ -102,12 +102,13 @@ hr{
 }
 a{
   padding: 20px;
-  color: #E6E2C3;
+  color: red;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
+  font-size:150%;
 }
 a:hover{
-  color: black;
+  color: blue;
 }
 .contact-me{
 margin: 60px;
