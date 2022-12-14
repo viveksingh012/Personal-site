@@ -54,12 +54,12 @@ right: 260px;
 }
 .developer{
   float: left;
-  width: 25%;
+  width: 40%;
   margin: 15px;
 }
 .goal{
   float:right;
-  width: 25% ;
+  width: 40% ;
   margin: 15px;
 }
 hr{
@@ -116,7 +116,7 @@ p{
   line-height: 2;
 }
 .vpics{
-  width:10%;
+  width:22%;
   border-radius: 10%
 }
 .profile{
